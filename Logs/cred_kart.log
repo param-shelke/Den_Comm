@@ -1,0 +1,674 @@
+2025-01-30 11:28:49,674 - INFO - Test_Login_001 - test_homePageTitle - *********TC_001_Login*******************
+2025-01-30 11:28:49,675 - INFO - Test_Login_001 - test_homePageTitle - ********* verifying home page title *******************
+2025-01-30 11:28:49,747 - INFO - Test_Login_001 - test_login - *********verifying login testcase *******************
+2025-01-30 11:28:54,449 - INFO - Test_Login_001 - test_homePageTitle - *********Home page title is passed *******************
+2025-01-30 11:28:58,505 - INFO - Test_Login_001 - test_login - ********* login test is passed *******************
+2025-01-30 12:13:48,883 - INFO - Test_Login_001 - test_login - *********verifying login testcase *******************
+2025-01-30 12:13:49,056 - INFO - Test_Login_001 - test_homePageTitle - *********TC_001_Login*******************
+2025-01-30 12:13:49,057 - INFO - Test_Login_001 - test_homePageTitle - ********* verifying home page title *******************
+2025-01-30 12:13:55,326 - INFO - Test_Login_001 - test_homePageTitle - *********Home page title is passed *******************
+2025-01-30 12:14:23,406 - INFO - Test_Login_001 - test_login - ********* login test is passed *******************
+2025-01-30 12:16:04,527 - INFO - Test_Login_001 - test_login - *********verifying login testcase *******************
+2025-01-30 12:16:04,753 - INFO - Test_Login_001 - test_homePageTitle - *********TC_001_Login*******************
+2025-01-30 12:16:04,754 - INFO - Test_Login_001 - test_homePageTitle - ********* verifying home page title *******************
+2025-01-30 12:16:09,731 - INFO - Test_Login_001 - test_homePageTitle - *********Home page title is passed *******************
+2025-01-30 12:16:14,186 - INFO - Test_Login_001 - test_login - ********* login test is passed *******************
+2025-01-30 12:17:32,109 - INFO - Test_Login_001 - test_login - *********verifying login testcase *******************
+2025-01-30 12:17:32,655 - INFO - Test_Login_001 - test_homePageTitle - *********TC_001_Login*******************
+2025-01-30 12:17:32,656 - INFO - Test_Login_001 - test_homePageTitle - ********* verifying home page title *******************
+2025-01-30 12:17:37,002 - INFO - Test_Login_001 - test_homePageTitle - *********Home page title is passed *******************
+2025-01-30 12:17:41,176 - INFO - Test_Login_001 - test_login - ********* login test is passed *******************
+2025-01-30 13:45:26,708 - INFO - Test_Login_002_DDT - test_login_ddt - *********Test_login_002_DDT *******************
+2025-01-30 13:45:26,708 - INFO - Test_Login_002_DDT - test_login_ddt - *********verifying login testcase *******************
+2025-01-30 13:45:37,435 - INFO - Test_Login_002_DDT - test_login_ddt - ******passed******
+2025-01-30 13:45:37,435 - INFO - Test_Login_002_DDT - test_login_ddt - *****Login_ddt_002_passed******
+2025-01-30 13:51:09,215 - INFO - Test_Login_002_DDT - test_login_ddt - *********Test_login_002_DDT *******************
+2025-01-30 13:51:09,217 - INFO - Test_Login_002_DDT - test_login_ddt - *********verifying login testcase *******************
+2025-01-30 13:51:20,796 - INFO - Test_Login_002_DDT - test_login_ddt - **** Passed ****
+2025-01-30 14:46:40,313 - INFO - Test_Login_002_DDT - test_login_ddt - *********Test_login_002_DDT *******************
+2025-01-30 14:46:40,314 - INFO - Test_Login_002_DDT - test_login_ddt - *********verifying login testcase *******************
+2025-01-30 14:46:52,558 - INFO - Test_Login_002_DDT - test_login_ddt - **** Passed ****
+2025-01-30 14:51:10,050 - INFO - Test_Login_002_DDT - test_login_ddt - *********Test_login_002_DDT *******************
+2025-01-30 14:51:10,051 - INFO - Test_Login_002_DDT - test_login_ddt - *********verifying login testcase *******************
+2025-01-30 14:51:23,028 - INFO - Test_Login_002_DDT - test_login_ddt - **** Passed ****
+2025-01-30 14:51:33,647 - INFO - Test_Login_002_DDT - test_login_ddt - ******passed******
+2025-01-30 14:51:41,241 - INFO - Test_Login_002_DDT - test_login_ddt - ******passed******
+2025-01-30 14:51:41,241 - INFO - Test_Login_002_DDT - test_login_ddt - *****Login_ddt_002_passed******
+2025-01-30 14:51:41,448 - INFO - Test_Login_002_DDT - test_login_ddt - *****end of login DDT ********
+2025-01-30 14:51:41,449 - INFO - Test_Login_002_DDT - test_login_ddt - ********Completed TC Login Tc 002***********
+2025-01-31 14:01:18,334 - INFO - Test_Registration_DDT - test_registration_ddt - ********* Test_Registration_DDT *******************
+2025-01-31 14:01:18,335 - INFO - Test_Registration_DDT - test_registration_ddt - ********* Verifying Registration with Multiple Data Inputs *******************
+2025-01-31 14:01:21,578 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for john.doe@test.com *****
+2025-01-31 14:01:36,530 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Test Failed for john.doe@test.com *****
+2025-01-31 14:01:39,935 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for jane.smith@test.com *****
+2025-01-31 14:01:55,399 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Test Failed for jane.smith@test.com *****
+2025-01-31 14:01:58,724 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for alice.brown@xyz *****
+2025-01-31 14:02:13,572 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Test Passed for alice.brown@xyz *****
+2025-01-31 14:02:16,918 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for bob.white@test.com *****
+2025-01-31 14:02:31,832 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Test Passed for bob.white@test.com *****
+2025-01-31 14:02:35,168 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for carol.adams@test.com *****
+2025-01-31 14:02:49,984 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Test Passed for carol.adams@test.com *****
+2025-01-31 14:02:53,272 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for None *****
+2025-01-31 14:02:54,390 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: 'NoneType' object is not iterable *****
+2025-01-31 14:02:57,883 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for eve.johnson@test.com *****
+2025-01-31 14:02:58,911 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: 'NoneType' object is not iterable *****
+2025-01-31 14:03:02,455 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for frank.miller@test.com *****
+2025-01-31 14:03:03,695 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: 'NoneType' object is not iterable *****
+2025-01-31 14:43:14,799 - INFO - Test_Registration_DDT - test_registration_ddt - ********* Test_Registration_DDT *******************
+2025-01-31 14:43:14,800 - INFO - Test_Registration_DDT - test_registration_ddt - ********* Verifying Registration with Multiple Data Inputs *******************
+2025-01-31 14:43:18,204 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for john.doe@test.com *****
+2025-01-31 14:43:24,612 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: WebDriver.find_element() takes from 1 to 3 positional arguments but 4 were given *****
+2025-01-31 14:43:28,130 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for jane.smith@test.com *****
+2025-01-31 14:43:35,894 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: WebDriver.find_element() takes from 1 to 3 positional arguments but 4 were given *****
+2025-01-31 14:43:39,420 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for alice.brown@xyz *****
+2025-01-31 14:43:43,847 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: WebDriver.find_element() takes from 1 to 3 positional arguments but 4 were given *****
+2025-01-31 14:43:47,335 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for bob.white@test.com *****
+2025-01-31 14:43:51,837 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: WebDriver.find_element() takes from 1 to 3 positional arguments but 4 were given *****
+2025-01-31 14:43:55,344 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for carol.adams@test.com *****
+2025-01-31 14:43:59,918 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: WebDriver.find_element() takes from 1 to 3 positional arguments but 4 were given *****
+2025-01-31 14:44:03,404 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for None *****
+2025-01-31 14:44:04,635 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: 'NoneType' object is not iterable *****
+2025-01-31 14:44:08,191 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for eve.johnson@test.com *****
+2025-01-31 14:44:09,373 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: 'NoneType' object is not iterable *****
+2025-01-31 14:44:13,438 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for frank.miller@test.com *****
+2025-01-31 14:44:15,099 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: 'NoneType' object is not iterable *****
+2025-01-31 14:50:12,481 - INFO - Test_Registration_DDT - test_registration_ddt - ********* Test_Registration_DDT *******************
+2025-01-31 14:50:12,481 - INFO - Test_Registration_DDT - test_registration_ddt - ********* Verifying Registration with Multiple Data Inputs *******************
+2025-01-31 14:50:15,423 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for john.doe1@test.com *****
+2025-01-31 14:50:22,802 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: invalid selector: The result of the xpath expression "//*[@id="maincontent"]/div[1]/div[2]/div/div/div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D455510A]
+	(No symbol) [0x00007FF6D455BD70]
+	(No symbol) [0x00007FF6D455EABC]
+	(No symbol) [0x00007FF6D455EB8F]
+	(No symbol) [0x00007FF6D45A8C85]
+	(No symbol) [0x00007FF6D45A95FC]
+	(No symbol) [0x00007FF6D45F3407]
+	(No symbol) [0x00007FF6D45CFFEF]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:50:26,337 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for jane.smith1@test.com *****
+2025-01-31 14:50:36,538 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D4554F39]
+	(No symbol) [0x00007FF6D45AA7D4]
+	(No symbol) [0x00007FF6D459C6B4]
+	(No symbol) [0x00007FF6D45CFFAA]
+	(No symbol) [0x00007FF6D459BF86]
+	(No symbol) [0x00007FF6D45D01C0]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:50:40,365 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for alice.brown1@xyz *****
+2025-01-31 14:50:50,392 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D4554F39]
+	(No symbol) [0x00007FF6D45AA7D4]
+	(No symbol) [0x00007FF6D459C6B4]
+	(No symbol) [0x00007FF6D45CFFAA]
+	(No symbol) [0x00007FF6D459BF86]
+	(No symbol) [0x00007FF6D45D01C0]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:50:55,030 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for bob.white1@test.com *****
+2025-01-31 14:51:05,106 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D4554F39]
+	(No symbol) [0x00007FF6D45AA7D4]
+	(No symbol) [0x00007FF6D459C6B4]
+	(No symbol) [0x00007FF6D45CFFAA]
+	(No symbol) [0x00007FF6D459BF86]
+	(No symbol) [0x00007FF6D45D01C0]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:51:08,796 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for None *****
+2025-01-31 14:51:18,826 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D4554F39]
+	(No symbol) [0x00007FF6D45AA7D4]
+	(No symbol) [0x00007FF6D459C6B4]
+	(No symbol) [0x00007FF6D45CFFAA]
+	(No symbol) [0x00007FF6D459BF86]
+	(No symbol) [0x00007FF6D45D01C0]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:51:22,911 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for None *****
+2025-01-31 14:51:32,952 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D4554F39]
+	(No symbol) [0x00007FF6D45AA7D4]
+	(No symbol) [0x00007FF6D459C6B4]
+	(No symbol) [0x00007FF6D45CFFAA]
+	(No symbol) [0x00007FF6D459BF86]
+	(No symbol) [0x00007FF6D45D01C0]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:51:36,897 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for None *****
+2025-01-31 14:52:15,312 - INFO - Test_Registration_DDT - test_registration_ddt - ********* Test_Registration_DDT *******************
+2025-01-31 14:52:15,313 - INFO - Test_Registration_DDT - test_registration_ddt - ********* Verifying Registration with Multiple Data Inputs *******************
+2025-01-31 14:52:18,149 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for john.doe1@test.com *****
+2025-01-31 14:52:34,854 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="maincontent"]/div[1]/div[2]/div/div/div/text()"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D455510A]
+	(No symbol) [0x00007FF6D45A93D2]
+	(No symbol) [0x00007FF6D45A95FC]
+	(No symbol) [0x00007FF6D45F3407]
+	(No symbol) [0x00007FF6D45CFFEF]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:52:38,414 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for jane.smith1@test.com *****
+2025-01-31 14:52:46,203 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: invalid selector: The result of the xpath expression "//*[@id="maincontent"]/div[1]/div[2]/div/div/div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D455510A]
+	(No symbol) [0x00007FF6D455BD70]
+	(No symbol) [0x00007FF6D455EABC]
+	(No symbol) [0x00007FF6D455EB8F]
+	(No symbol) [0x00007FF6D45A8C85]
+	(No symbol) [0x00007FF6D45A95FC]
+	(No symbol) [0x00007FF6D45F3407]
+	(No symbol) [0x00007FF6D45CFFEF]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:52:49,713 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for alice.brown1@xyz *****
+2025-01-31 14:52:59,742 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D4554F39]
+	(No symbol) [0x00007FF6D45AA7D4]
+	(No symbol) [0x00007FF6D459C6B4]
+	(No symbol) [0x00007FF6D45CFFAA]
+	(No symbol) [0x00007FF6D459BF86]
+	(No symbol) [0x00007FF6D45D01C0]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:53:03,449 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for bob.white1@test.com *****
+2025-01-31 14:53:13,526 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D4554F39]
+	(No symbol) [0x00007FF6D45AA7D4]
+	(No symbol) [0x00007FF6D459C6B4]
+	(No symbol) [0x00007FF6D45CFFAA]
+	(No symbol) [0x00007FF6D459BF86]
+	(No symbol) [0x00007FF6D45D01C0]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:53:17,744 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for None *****
+2025-01-31 14:53:27,781 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D4554F39]
+	(No symbol) [0x00007FF6D45AA7D4]
+	(No symbol) [0x00007FF6D459C6B4]
+	(No symbol) [0x00007FF6D45CFFAA]
+	(No symbol) [0x00007FF6D459BF86]
+	(No symbol) [0x00007FF6D45D01C0]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:53:31,575 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for None *****
+2025-01-31 14:53:41,647 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D4554F39]
+	(No symbol) [0x00007FF6D45AA7D4]
+	(No symbol) [0x00007FF6D459C6B4]
+	(No symbol) [0x00007FF6D45CFFAA]
+	(No symbol) [0x00007FF6D459BF86]
+	(No symbol) [0x00007FF6D45D01C0]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:53:45,821 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for None *****
+2025-01-31 14:53:55,911 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D4554F39]
+	(No symbol) [0x00007FF6D45AA7D4]
+	(No symbol) [0x00007FF6D459C6B4]
+	(No symbol) [0x00007FF6D45CFFAA]
+	(No symbol) [0x00007FF6D459BF86]
+	(No symbol) [0x00007FF6D45D01C0]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:54:00,112 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for None *****
+2025-01-31 14:54:10,162 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D4554F39]
+	(No symbol) [0x00007FF6D45AA7D4]
+	(No symbol) [0x00007FF6D459C6B4]
+	(No symbol) [0x00007FF6D45CFFAA]
+	(No symbol) [0x00007FF6D459BF86]
+	(No symbol) [0x00007FF6D45D01C0]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:59:26,893 - INFO - Test_Registration_DDT - test_registration_ddt - ********* Test_Registration_DDT *******************
+2025-01-31 14:59:26,893 - INFO - Test_Registration_DDT - test_registration_ddt - ********* Verifying Registration with Multiple Data Inputs *******************
+2025-01-31 14:59:30,086 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for john.doe21@test.com *****
+2025-01-31 14:59:37,702 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: invalid selector: The result of the xpath expression "//*[@id="maincontent"]/div[1]/div[2]/div/div/div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D455510A]
+	(No symbol) [0x00007FF6D455BD70]
+	(No symbol) [0x00007FF6D455EABC]
+	(No symbol) [0x00007FF6D455EB8F]
+	(No symbol) [0x00007FF6D45A8C85]
+	(No symbol) [0x00007FF6D45A95FC]
+	(No symbol) [0x00007FF6D45F3407]
+	(No symbol) [0x00007FF6D45CFFEF]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:59:42,980 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for jane.smith11@test.com *****
+2025-01-31 14:59:50,656 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: invalid selector: The result of the xpath expression "//*[@id="maincontent"]/div[1]/div[2]/div/div/div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D455510A]
+	(No symbol) [0x00007FF6D455BD70]
+	(No symbol) [0x00007FF6D455EABC]
+	(No symbol) [0x00007FF6D455EB8F]
+	(No symbol) [0x00007FF6D45A8C85]
+	(No symbol) [0x00007FF6D45A95FC]
+	(No symbol) [0x00007FF6D45F3407]
+	(No symbol) [0x00007FF6D45CFFEF]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 14:59:55,922 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for alice.bro22wn1@xyz *****
+2025-01-31 15:00:10,782 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="maincontent"]/div[1]/div[2]/div/div/div/text()"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D455510A]
+	(No symbol) [0x00007FF6D45A93D2]
+	(No symbol) [0x00007FF6D45A95FC]
+	(No symbol) [0x00007FF6D45F3407]
+	(No symbol) [0x00007FF6D45CFFEF]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 15:02:42,864 - INFO - Test_Registration_DDT - test_registration_ddt - ********* Test_Registration_DDT *******************
+2025-01-31 15:02:42,865 - INFO - Test_Registration_DDT - test_registration_ddt - ********* Verifying Registration with Multiple Data Inputs *******************
+2025-01-31 15:02:45,890 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for ashu123@gmail.com *****
+2025-01-31 15:02:53,960 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: invalid selector: The result of the xpath expression "//*[@id="maincontent"]/div[1]/div[2]/div/div/div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D455510A]
+	(No symbol) [0x00007FF6D455BD70]
+	(No symbol) [0x00007FF6D455EABC]
+	(No symbol) [0x00007FF6D455EB8F]
+	(No symbol) [0x00007FF6D45A8C85]
+	(No symbol) [0x00007FF6D45A95FC]
+	(No symbol) [0x00007FF6D45F3407]
+	(No symbol) [0x00007FF6D45CFFEF]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 15:02:59,489 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for ashu1232@gmail.com *****
+2025-01-31 15:03:07,922 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: invalid selector: The result of the xpath expression "//*[@id="maincontent"]/div[1]/div[2]/div/div/div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D455510A]
+	(No symbol) [0x00007FF6D455BD70]
+	(No symbol) [0x00007FF6D455EABC]
+	(No symbol) [0x00007FF6D455EB8F]
+	(No symbol) [0x00007FF6D45A8C85]
+	(No symbol) [0x00007FF6D45A95FC]
+	(No symbol) [0x00007FF6D45F3407]
+	(No symbol) [0x00007FF6D45CFFEF]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 15:03:13,058 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for ashu1233@gmail.com *****
+2025-01-31 15:03:20,550 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: invalid selector: The result of the xpath expression "//*[@id="maincontent"]/div[1]/div[2]/div/div/div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D455510A]
+	(No symbol) [0x00007FF6D455BD70]
+	(No symbol) [0x00007FF6D455EABC]
+	(No symbol) [0x00007FF6D455EB8F]
+	(No symbol) [0x00007FF6D45A8C85]
+	(No symbol) [0x00007FF6D45A95FC]
+	(No symbol) [0x00007FF6D45F3407]
+	(No symbol) [0x00007FF6D45CFFEF]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 15:03:26,265 - INFO - Test_Registration_DDT - test_registration_ddt - ***** Executing Test for ashu1234@gmail.com *****
+2025-01-31 15:03:40,685 - ERROR - Test_Registration_DDT - test_registration_ddt - ***** Exception occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="maincontent"]/div[1]/div[2]/div/div/div/text()"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D47602F5+28725]
+	(No symbol) [0x00007FF6D46C2AE0]
+	(No symbol) [0x00007FF6D455510A]
+	(No symbol) [0x00007FF6D45A93D2]
+	(No symbol) [0x00007FF6D45A95FC]
+	(No symbol) [0x00007FF6D45F3407]
+	(No symbol) [0x00007FF6D45CFFEF]
+	(No symbol) [0x00007FF6D45F0181]
+	(No symbol) [0x00007FF6D45CFD53]
+	(No symbol) [0x00007FF6D459A0E3]
+	(No symbol) [0x00007FF6D459B471]
+	GetHandleVerifier [0x00007FF6D4A8F30D+3366989]
+	GetHandleVerifier [0x00007FF6D4AA12F0+3440688]
+	GetHandleVerifier [0x00007FF6D4A978FD+3401277]
+	GetHandleVerifier [0x00007FF6D482AAAB+858091]
+	(No symbol) [0x00007FF6D46CE74F]
+	(No symbol) [0x00007FF6D46CA304]
+	(No symbol) [0x00007FF6D46CA49D]
+	(No symbol) [0x00007FF6D46B8B69]
+	BaseThreadInitThunk [0x00007FF989787374+20]
+	RtlUserThreadStart [0x00007FF98B53CC91+33]
+ *****
+2025-01-31 16:24:28,096 - INFO - Test_Login_001 - test_login - *********verifying login testcase *******************
+2025-01-31 16:24:28,246 - INFO - Test_Login_001 - test_homePageTitle - *********TC_001_Login*******************
+2025-01-31 16:24:28,248 - INFO - Test_Login_001 - test_homePageTitle - ********* verifying home page title *******************
+2025-01-31 16:24:35,125 - INFO - Test_Login_001 - test_homePageTitle - *********Home page title is passed *******************
+2025-01-31 16:24:38,410 - INFO - Test_Login_001 - test_login - ********* login test is passed *******************
+2025-02-03 08:00:54,674 - INFO - Test_Login_002_DDT - test_login_ddt - *********Test_login_002_DDT *******************
+2025-02-03 08:00:54,675 - INFO - Test_Login_002_DDT - test_login_ddt - *********verifying login testcase *******************
+2025-02-03 08:01:04,885 - INFO - Test_Login_002_DDT - test_login_ddt - **** Passed ****
+2025-02-03 08:01:10,767 - INFO - Test_Login_002_DDT - test_login_ddt - ******passed******
+2025-02-03 08:01:14,225 - INFO - Test_Login_002_DDT - test_login_ddt - ******passed******
+2025-02-03 08:01:14,225 - INFO - Test_Login_002_DDT - test_login_ddt - *****Login_ddt_002_passed******
+2025-02-03 08:01:14,366 - INFO - Test_Login_002_DDT - test_login_ddt - *****end of login DDT ********
+2025-02-03 08:01:14,366 - INFO - Test_Login_002_DDT - test_login_ddt - ********Completed TC Login Tc 002***********
